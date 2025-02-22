@@ -1,17 +1,2 @@
-# CS499.github.io
-
-## Projects
-### Project 1
-- Description
-- Links
-
-### Project 2
-- Description
-- Links
-
-# Education
-- Some university
-
-# work history
-- workplace 1
-- workplace 2
+## Databases
+This artifact is Rocha Blogs, it is a blog project that allows authorized users to write blog posts and people can comment on them and read the blog posts. I selected this item because the very core of this project is based on databases. From storing the blog posts, to keeping the information of the users stored and secure, this project was a perfect example for databases. Specific components of the artifact that showcase my skills and abilities is the structure of the models. This structure would be how the tables in the databases are structured and saves the information in that format. This aligned with the course outcome by Designing, developing, and delivering professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. Challenges I faced when improving the artifact was identifying where certain files were located and making sure I was editing the correct code when editing the page. I had to make sure the file did not become faulty after adding another feature and made sure it did not lose its layout structure. I also ensured the correct information was being shown when having multiple classes and not confusing the structure of the model. 
